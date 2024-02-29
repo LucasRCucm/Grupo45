@@ -1,0 +1,14 @@
+C:\Users\LuKaTis\source\repos\lector de coordenadas\lector de coordenadas\bin\Debug\net8.0\lector de coordenadas.exe
+C:\Users\LuKaTis\source\repos\lector de coordenadas\lector de coordenadas\bin\Debug\net8.0\lector de coordenadas.deps.json
+C:\Users\LuKaTis\source\repos\lector de coordenadas\lector de coordenadas\bin\Debug\net8.0\lector de coordenadas.runtimeconfig.json
+C:\Users\LuKaTis\source\repos\lector de coordenadas\lector de coordenadas\bin\Debug\net8.0\lector de coordenadas.dll
+C:\Users\LuKaTis\source\repos\lector de coordenadas\lector de coordenadas\bin\Debug\net8.0\lector de coordenadas.pdb
+C:\Users\LuKaTis\source\repos\lector de coordenadas\lector de coordenadas\obj\Debug\net8.0\lector de coordenadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LuKaTis\source\repos\lector de coordenadas\lector de coordenadas\obj\Debug\net8.0\lector de coordenadas.AssemblyInfoInputs.cache
+C:\Users\LuKaTis\source\repos\lector de coordenadas\lector de coordenadas\obj\Debug\net8.0\lector de coordenadas.AssemblyInfo.cs
+C:\Users\LuKaTis\source\repos\lector de coordenadas\lector de coordenadas\obj\Debug\net8.0\lector de coordenadas.csproj.CoreCompileInputs.cache
+C:\Users\LuKaTis\source\repos\lector de coordenadas\lector de coordenadas\obj\Debug\net8.0\lector de coordenadas.dll
+C:\Users\LuKaTis\source\repos\lector de coordenadas\lector de coordenadas\obj\Debug\net8.0\refint\lector de coordenadas.dll
+C:\Users\LuKaTis\source\repos\lector de coordenadas\lector de coordenadas\obj\Debug\net8.0\lector de coordenadas.pdb
+C:\Users\LuKaTis\source\repos\lector de coordenadas\lector de coordenadas\obj\Debug\net8.0\lector de coordenadas.genruntimeconfig.cache
+C:\Users\LuKaTis\source\repos\lector de coordenadas\lector de coordenadas\obj\Debug\net8.0\ref\lector de coordenadas.dll

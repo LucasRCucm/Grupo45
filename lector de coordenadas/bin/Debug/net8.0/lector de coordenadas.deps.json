@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "lector de coordenadas/1.0.0": {
+        "runtime": {
+          "lector de coordenadas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lector de coordenadas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
