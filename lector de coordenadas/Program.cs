@@ -6,6 +6,7 @@ namespace lector
     {
         static void Main()
         {
+            //Avavavavavava
             Console.WriteLine("Inserte las coordenadas con el formato \"(x,y)\", por favor");
             string coordenadas = Console.ReadLine();
             coordenadas = coordenadas.Remove(0, 1);
