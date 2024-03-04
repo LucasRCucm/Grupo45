@@ -1,9 +1,1 @@
-<<<<<<< HEAD
 Hola.
-=======
-<<<<<<< HEAD
-Error 404
-=======
-Hola
->>>>>>> 8b5a9a284ddf99ab468c9d17dd6dcaf31b585587
->>>>>>> 379551bee03bae0425c604529b77ddd3e4faf682
